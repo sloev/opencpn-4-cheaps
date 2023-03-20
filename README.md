@@ -13,6 +13,13 @@ its free chart plotter software, see this video for a demo:
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/JYhsQSQOEbM/0.jpg)](https://www.youtube.com/watch?v=JYhsQSQOEbM)
 
 
+## GOALS:
+
+- [ ] opencpn with chart data for denmark
+- [ ] AIS data overlay (surrounding ships and their direction, speed)
+- [ ] GPS 
+- [ ] Weather daya overlay
+
 ## 1. rpi4  with 4gb ram
 
 [Raspberry Pi 4 Model B – 4 GB](https://raspberrypi.dk/produkt/raspberry-pi-4-model-b-4-gb/)
