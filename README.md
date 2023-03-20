@@ -15,7 +15,6 @@ or [RTL-SDR Blog RTL SDR V3 R820T2 RTL2832U 1PPM TCXO SMA RTLSDR Software Define
 DKK 315 (US $45.94 + shipping)
 
 ## 3. usb gps:
-![image](https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61l305pCbgL.jpg)
 
 [GlobalSat BU-353N5](https://www.aliexpress.com/item/1005004769981210.html)
 DKK 252 (US $36.74 + shipping)
