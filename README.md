@@ -1,5 +1,18 @@
 # opencpn 4 cheaps
 
+inspired by the blog post:
+
+[http://www.thelowcostsailor.com/en/low-cost-chart-plotter-with-raspberry-pi-and-open-plotter/](http://www.thelowcostsailor.com/en/low-cost-chart-plotter-with-raspberry-pi-and-open-plotter/)
+
+but from a danish perspective
+
+
+*what is opencpn*
+its free chart plotter software, see this video for a demo:
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/JYhsQSQOEbM/0.jpg)](https://www.youtube.com/watch?v=JYhsQSQOEbM)
+
+
 ## 1. rpi4  with 4gb ram
 
 [Raspberry Pi 4 Model B – 4 GB](https://raspberrypi.dk/produkt/raspberry-pi-4-model-b-4-gb/)
@@ -23,3 +36,5 @@ DKK 252 (US $36.74 + shipping)
 [https://www.proshop.dk/USB-hub/I-Tec-USB-30-Charging-HUB-7-port-Power-Adapter-36-W-USB-hub-7-ports-Graa/2851678](https://www.proshop.dk/USB-hub/I-Tec-USB-30-Charging-HUB-7-port-Power-Adapter-36-W-USB-hub-7-ports-Graa/2851678)
 
 DKK 251
+
+#
