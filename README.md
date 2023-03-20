@@ -11,9 +11,6 @@ DKK 559
 [RTL-SDR Blog RTL SDR V3 R820T2 RTL2832U 1PPM TCXO SMA RTLSDR Software Defined Radio (Dongle Only)](https://www.aliexpress.com/item/32939551915.html)
 DKK 217 (US $31.44 + shipping)
 
-or [RTL-SDR Blog RTL SDR V3 R820T2 RTL2832U 1PPM TCXO SMA RTLSDR Software Defined Radio with Multipurpose Dipole Antenna](https://www.aliexpress.com/item/32936334224.html)
-DKK 315 (US $45.94 + shipping)
-
 ## 3. usb gps:
 
 [GlobalSat BU-353N5](https://www.aliexpress.com/item/1005004769981210.html)
